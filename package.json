@@ -1,0 +1,26 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmtuominen22/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmtuominen22/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/dmtuominen22/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "description": ""
+}
